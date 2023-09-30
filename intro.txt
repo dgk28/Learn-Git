@@ -1,1 +1,3 @@
-The EventMake is a website wherein people can find teammates for various events
+The EventMake is a website wherein people can find teammates for various events.
+
+It is can be scaled horizonally to make it more efficient 
